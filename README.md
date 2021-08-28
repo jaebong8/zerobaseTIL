@@ -1,2 +1,1 @@
-# zerobaseTIL
-# PUSH TEST
+# 제로베이스 TIL 미션
